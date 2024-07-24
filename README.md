@@ -27,7 +27,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/car-price-prediction.git
+   git clone https://github.com/vanshp17/car-price-prediction.git
    cd car-price-prediction
    ```
 
